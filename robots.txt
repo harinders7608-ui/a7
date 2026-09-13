@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aviatorcoatup.com/sitemap.xml
